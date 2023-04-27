@@ -12,7 +12,7 @@
     }
   ],
   "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#1F2125"],
+    "BACKGROUND_PRIMARY": ["#000000"],
     "BACKGROUND_SECONDARY": ["#171a1f"],
     "BACKGROUND_SECONDARY_ALT": ["#171a1f"],
     "BACKGROUND_TERTIARY": ["#14161A"],
