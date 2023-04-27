@@ -39,7 +39,6 @@
     "CHANNELTEXTAREA_BACKGROUND": ["#6d6f78"],
     "KEYBOARD": ["#161519", "#161519"],
     "CHANNEL_ICON": ["#8b949e"],
-    "CHANNELS_DEFAULT": ["#090c10"],
     "CHAT_BACKGROUND": ["#090c10"]
   },
   "rawColors": {
