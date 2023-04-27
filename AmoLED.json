@@ -38,7 +38,8 @@
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#6d6f78"],
     "CHANNELTEXTAREA_BACKGROUND": ["#6d6f78"],
     "KEYBOARD": ["#161519", "#161519"],
-    "CHANNEL_ICON": ["#8b949e"]
+    "CHANNEL_ICON": ["#8b949e"],
+    "CHANNELS_DEFAULT": ["#090c10"]
   },
   "rawColors": {
     "PRIMARY_100": "#C2C2C2",
