@@ -1,14 +1,10 @@
 {
-  "name": "Eris",
-  "description": "Black, classic Discord theme... (Modified by amsyarasyiq)",
+  "name": "AmoLED",
+  "description": "Complete Dark theme",
   "authors": [
     {
-      "name": "Yan.",
-      "id": "735538297815957584"
-    },
-    {
-      "name": "amsyarasyiq",
-      "id": "492949202121261067"
+      "name": "Johannes7k75",
+      "id": "587701169103699994"
     }
   ],
   "semanticColors": {
