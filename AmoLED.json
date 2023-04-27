@@ -40,7 +40,6 @@
     "KEYBOARD": ["#161519", "#161519"],
     "CHANNEL_ICON": ["#BFBFBF", "#BFBFBF"]
   },
-  "test": "#766c54",
   "rawColors": {
     "PRIMARY_100": "#C2C2C2",
     "PRIMARY_300": "#C2C2C2",
